@@ -18,7 +18,7 @@ I'm a DevOps engineer passionate about bridging the gap between development and 
 
 My day-to-day work revolves around setting up CI/CD pipelines, managing containerized applications with Kubernetes, provisioning cloud resources using Infrastructure as Code (IaC), and implementing robust observability and monitoring solutions.
 
-When I'm not configuring clusters or writing deployment scripts, I enjoy [Your Hobby or Passion, e.g., open-source contributing, gaming, mentoring, etc.]. I love that "it just works" moment when a pipeline runs flawlessly from commit to production.
+When I'm not configuring clusters or writing deployment scripts, I enjoy working on collaborative projects, playing and watching football, learning new things, and exploring new places through tourism. I love that "it just works" moment when a pipeline runs flawlessly from commit to production.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My DevOps Portfolio Website](https://your-username.github.io/)
