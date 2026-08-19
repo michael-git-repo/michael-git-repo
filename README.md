@@ -1,9 +1,9 @@
 ## Hi there, I'm Michael👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <!-- Customize the typing text in the "lines=" section below -->
+  <!-- For spaces use '+', and for special characters like '&' use '%26' -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=DevOps+Engineer+%7C+Cloud+%26+Infrastructure;Automating+Pipelines+%26+Scaling+Systems;Infrastructure+as+Code+Enthusiast;Building+Reliable+%26+Secure+Workloads" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -14,49 +14,55 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a DevOps engineer passionate about bridging the gap between development and operations. I focus on streamlining software delivery, automating infrastructure, and building scalable, reliable cloud architectures.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My day-to-day work revolves around setting up CI/CD pipelines, managing containerized applications with Kubernetes, provisioning cloud resources using Infrastructure as Code (IaC), and implementing robust observability and monitoring solutions.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not configuring clusters or writing deployment scripts, I enjoy [Your Hobby or Passion, e.g., open-source contributing, gaming, mentoring, etc.]. I love that "it just works" moment when a pipeline runs flawlessly from commit to production.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My DevOps Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Infrastructure Automation:** Building a modular Terraform setup to deploy multi-region Kubernetes clusters on AWS.
+- **CI/CD Optimization:** Creating automated deployment pipelines with GitHub Actions and ArgoCD for GitOps workflows.
+- **Observability:** Setting up a centralized logging and monitoring stack using Prometheus, Grafana, and Loki.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **Advanced Kubernetes:** Deep diving into Service Meshes (Istio) and custom controller development.
+- **Cloud Security & Compliance:** Implementing DevSecOps best practices using secret scanning and container vulnerability tools (Trivy, Vault).
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### Operating System
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge">
 </p>
 
-#### Programming & Automation
+#### Cloud & Infrastructure as Code (IaC)
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/AWS-Experienced-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Containers & Orchestration
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
+  <img src="https://img.shields.io/badge/KinD-Intermediate-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kind Badge">
+</p>
+
+#### CI/CD & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/GitHub-Expert-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Advanced-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions Badge">
+</p>
+
+#### Scripting
+<p>
+  <img src="https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Badge">
+  <img src="https://img.shields.io/badge/Shell%20Scripting-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Scripting Badge">
 </p>
