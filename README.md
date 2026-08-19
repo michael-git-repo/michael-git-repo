@@ -38,31 +38,31 @@ When I'm not configuring clusters or writing deployment scripts, I enjoy [Your H
 
 #### Operating System
 <p>
-  <img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge">
 </p>
 
 #### Cloud & Infrastructure as Code (IaC)
 <p>
-  <img src="https://img.shields.io/badge/AWS-Experienced-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-  <img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform Badge">
+  <img src="https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/Terraform-Intermediate-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform Badge">
 </p>
 
 #### Containers & Orchestration
 <p>
-  <img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
   <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
-  <img src="https://img.shields.io/badge/KinD-Intermediate-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kind Badge">
+  <img src="https://img.shields.io/badge/KinD-Intermediate-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="KinD Badge">
 </p>
 
 #### CI/CD & Version Control
 <p>
-  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/GitHub-Expert-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-Advanced-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions Badge">
+  <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Intermediate-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions Badge">
 </p>
 
 #### Scripting
 <p>
-  <img src="https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Badge">
-  <img src="https://img.shields.io/badge/Shell%20Scripting-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Scripting Badge">
+  <img src="https://img.shields.io/badge/Bash-Intermediate-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Badge">
+  <img src="https://img.shields.io/badge/Shell%20Scripting-Intermediate-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Scripting Badge">
 </p>
