@@ -13,6 +13,8 @@
   <a href="mailto:osarobookungbowa02@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+---
+
 ## 🚀 About Me 
 I'm a DevOps engineer passionate about bridging the gap between development and operations. I focus on streamlining software delivery, automating infrastructure, and building scalable, reliable cloud architectures.
 
@@ -22,6 +24,8 @@ When I'm not configuring clusters or writing deployment scripts, I enjoy working
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My DevOps Portfolio Website](https://your-username.github.io/)
+
+---
       
 ## 🔭 What I'm Currently Working On 
 
@@ -29,10 +33,14 @@ When I'm not configuring clusters or writing deployment scripts, I enjoy working
 - **CI/CD Optimization:** Creating automated deployment pipelines with GitHub Actions and ArgoCD for GitOps workflows.
 - **Observability:** Setting up a centralized logging and monitoring stack using Prometheus, Grafana, and Loki.
 
+---
+
 ## 🌱 Currently Learning 
 
 - **Advanced Kubernetes:** Deep diving into Service Meshes (Istio) and custom controller development.
 - **Cloud Security & Compliance:** Implementing DevSecOps best practices using secret scanning and container vulnerability tools (Trivy, Vault).
+
+---
 
 ## 🛠️ Technical Skillset
 
